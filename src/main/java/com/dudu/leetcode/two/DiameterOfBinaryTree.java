@@ -3,7 +3,7 @@ package com.dudu.leetcode.two;
 import com.dudu.leetcode.TreeNode;
 
 /**
- * @Description:
+ * @Description:测试提交
  * 二叉树直径
  * 不是直接按根结点的左右子树相加计算
  * 因为可能不是根结点，但是左子树+右子树大于根结点的左右子树
